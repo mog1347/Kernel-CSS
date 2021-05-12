@@ -15,7 +15,7 @@
     "license": "MIT",
     "devDependencies": {
         "node-sass-js-importer": "^4.0.1",
-        "postcss": "^7.0.27",
+        "postcss": "^8.2.10",
         "postcss-cli": "^7.1.0",
         "postcss-scss": "^2.0.0",
         "postcss-selector-parser": "^6.0.2"
